@@ -6,6 +6,24 @@
 }
 .content-header{
     padding-top: 10%;
+    padding-left: 10%;
+}
+.pading-left{
+    padding-left: 10%;
+}
+.pading-right{
+    padding-right: 20%;
+}
+.margin-left{
+    margin-left: 10%;
+}
+.margin-right{
+    margin-right: 10%;
+}
+.btn-color1{
+background-color: #F87600;
+color: white;
+font-weight: bolder;
 }
 .container-content{
     background-color: rgb(0, 0, 0);
@@ -69,7 +87,7 @@
 .card3{
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: -100px;
+    margin-bottom: 50px;
     padding-top: 80px;
     padding-bottom: 25px;
     line-height: 1.5;
