@@ -4,6 +4,9 @@
     color: white;
     height: 100vh;
 }
+.nactive{
+    font-weight: lighter;
+}
 .content-header{
     padding-top: 10%;
     padding-left: 10%;
