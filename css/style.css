@@ -2,13 +2,13 @@
     background-image: url('/image/header.jpg');
     margin-top: -20px;
     color: white;
-    height: 100vh;
+    height: 105vh;
 }
 .nactive{
     font-weight: lighter;
 }
 .content-header{
-    padding-top: 10%;
+    padding-top: 15%;
     padding-left: 10%;
 }
 .pading-left{
